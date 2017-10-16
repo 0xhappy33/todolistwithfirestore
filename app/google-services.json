@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "770338940027",
+    "firebase_url": "https://crabwork-1de8f.firebaseio.com",
+    "project_id": "crabwork-1de8f",
+    "storage_bucket": "crabwork-1de8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770338940027:android:fa3b4c94fae05a36",
+        "android_client_info": {
+          "package_name": "com.happycity.project.todofirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770338940027-7ogcbjg0phic5e4k9f4p9stha7h5j49a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.happycity.project.todofirestore",
+            "certificate_hash": "8b1bb011d280208669b75582d90a303d4ac33014"
+          }
+        },
+        {
+          "client_id": "770338940027-7e2cbqcnpoalhlt09ld3gnjla4fa4qjd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ZDLuoMXk_nRpP4obd19xkLOg97BBh_I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770338940027-7e2cbqcnpoalhlt09ld3gnjla4fa4qjd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
